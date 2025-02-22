@@ -1,6 +1,6 @@
 ## Xiaomi Redmi Note 13 Pro 5G / POCO X6 5G (_garnet_)
 ## OrangeFox device tree
-
+## Ridho Chairul Fanny
 ## Device specifications
 
 Device                  | Xiaomi Redmi Note 13 Pro 5G / POCO X6 5G
